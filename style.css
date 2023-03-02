@@ -1,4 +1,21 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  background-color: #e9ecef;
+  width: auto;
+  height: 150px;
+}
+
+.row-border{
+  background-color: rgb(161, 226, 8);
+  width: auto;
+  height: 02px;
+}
+
+.logo {
+  width: 120px;
+  margin-top: 15px;
 }
