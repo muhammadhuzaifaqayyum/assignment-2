@@ -6,7 +6,7 @@
 .header {
   background-color: #e9ecef;
   width: auto;
-  height: 150px;
+  height: 110px;
 }
 
 .row-border{
@@ -16,6 +16,9 @@
 }
 
 .logo {
-  width: 120px;
-  margin-top: 15px;
+  width: 90px;
+  padding-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
