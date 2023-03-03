@@ -58,7 +58,7 @@
 
 .signature-text {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 60px;
 }
 
 .sign-font {
@@ -68,12 +68,12 @@
 }
 
 .footer {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom: 40px;
   margin-top: 40px;
   background-color: #f1f1f1;
   width: auto;
-  height: 100px;
+  height: auto;
   border-top: 2px solid rgb(204, 203, 203);
 }
 
@@ -83,4 +83,20 @@
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   line-height: 30px;
+}
+
+.app-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-img{
+  padding-top: 40px;
+}
+
+.googleplay-img {
+  width: 130px;
+}
+.appstore-img {
+  width: 130px;
 }
