@@ -82,6 +82,7 @@
   text-align: center;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
+  font-weight: 300;
   line-height: 30px;
 }
 
@@ -97,6 +98,13 @@
 .googleplay-img {
   width: 130px;
 }
+
 .appstore-img {
   width: 130px;
+}
+
+@media only screen and (max-width: 600px) {
+  .mail-img {
+    width: 350px;
+  }
 }
