@@ -91,7 +91,7 @@
   justify-content: center;
 }
 
-.footer-img{
+.footer-img {
   padding-top: 40px;
 }
 
@@ -103,7 +103,7 @@
   width: 130px;
 }
 
-@media  (max-width: 480px) {
+@media (max-width: 480px) {
   .mail-img {
     width: 350px;
   }
