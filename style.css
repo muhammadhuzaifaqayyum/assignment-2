@@ -103,7 +103,7 @@
   width: 130px;
 }
 
-@media only screen and (max-width: 600px) {
+@media  (max-width: 480px) {
   .mail-img {
     width: 350px;
   }
